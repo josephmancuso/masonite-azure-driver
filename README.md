@@ -6,7 +6,7 @@
 
 ## About Masonite Azure Driver
 
-Store files into Microsoft Azure Server either with a file name or with a pre-pend file name
+Store files into Microsoft Azure Server either with a file name or with a prefixed file name.
 
 ****
 
